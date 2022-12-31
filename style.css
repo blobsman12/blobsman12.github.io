@@ -1,0 +1,80 @@
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#page-title {
+    text-align: center;
+    color: white;
+}
+
+#website-description {
+    text-align: center;
+    color: blue;
+}
+
+#ign {
+    color: blue;
+}
+
+#ow {
+    color: rgb(255, 153, 0);
+}
+
+#val {
+    color: orangered;
+}
+
+#likes {
+    color: aqua;
+}
+
+#music {
+    color: blueviolet;
+}
+
+#food {
+    color: greenyellow;
+}
+
+#spicy {
+    color: red;
+}
+
+#ic1 {
+    color: brown;
+}
+
+#clothes {
+    color: yellow;
+}
+
+#blue1 {
+    color: blue;
+}
+
+#dislikes {
+    color: rgb(209, 63, 0);
+}
+
+#going-out {
+    text-align: center;
+    color: green;
+}
+
+#socializing {
+    text-align: center;
+    color: rgb(165, 96, 0);
+}
+
+#vege {
+    text-align: center;
+    color: rgb(119, 255, 35);
+}
